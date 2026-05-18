@@ -72,7 +72,7 @@ npm run build
 
 ## Author
 
-**Atia Oishi**
+**Atia Sanjida**
 
 ---
 
